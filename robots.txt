@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://me310-ustc-2013.github.io/sitemap.xml 
