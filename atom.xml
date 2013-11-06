@@ -4,7 +4,7 @@
   <title><![CDATA[Wearable Device]]></title>
   <link href="http://me310-ustc-2013.github.io/atom.xml" rel="self"/>
   <link href="http://me310-ustc-2013.github.io/"/>
-  <updated>2013-11-03T07:57:40+08:00</updated>
+  <updated>2013-11-06T16:38:11+08:00</updated>
   <id>http://me310-ustc-2013.github.io/</id>
   <author>
     <name><![CDATA[Liu Mu Shuai(Shawn) Qiu]]></name>
@@ -12,5 +12,101 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts About Task Management Wearable Devices Day Two]]></title>
+    <link href="http://me310-ustc-2013.github.io/blog/2013/11/06/thoughts-about-task-management-wearable-devices-day-two/"/>
+    <updated>2013-11-06T16:37:00+08:00</updated>
+    <id>http://me310-ustc-2013.github.io/blog/2013/11/06/thoughts-about-task-management-wearable-devices-day-two</id>
+    <content type="html"><![CDATA[<p>I have to be a hard worker those days. I should think what I will do tomorrow,
+or I would be caught unprepared when I finished the task at hand, found the
+materials was not in hand and ended up with wasting time, especially when I need
+to take the boring classes in the school, though I skipped most of them this
+term &hellip;</p>
+
+<p>At this time, I am wondering what I should do. So I write those line down.</p>
+
+<p>There always times that I know what I should do &mdash; they flash through my mind
+and I do not have the convenient way to store it. I do not want to take out my
+smartphone and write them down when walking in the street or brushing my teech
+or whatever so.</p>
+
+<p>If at this time, there is a wearable device that is with all the time. I could
+just say and record them. Kind of like recording the idea of recording the flash
+or writers &mdash; I have need for such moment too. Somethimes I read somethings
+really interesting and it let me have some really interesting or important
+ideas. At those time, I must remind myself to take out my smartphone and write
+some stubs. But it is not convenient. If you have that experience, you will find
+out &mdash; it takes some willingness to do such job. Again, if there is a wearable
+device that let you conveniently record such flashing ideas, it would be great!</p>
+
+<p>Ok, I will figure out what I should next not!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts About Task Management Wearable Devices Day One]]></title>
+    <link href="http://me310-ustc-2013.github.io/blog/2013/11/05/thoughts-about-task-management-wearable-devices-day-one/"/>
+    <updated>2013-11-05T08:36:00+08:00</updated>
+    <id>http://me310-ustc-2013.github.io/blog/2013/11/05/thoughts-about-task-management-wearable-devices-day-one</id>
+    <content type="html"><![CDATA[<p>The task management system is what I want the most. The point is the
+seamlessness for thinking and recording, then operating in the future. I always
+want such a task management system. Current stuffs on smartphone or pc reaaly
+does not satisfy me for a really long time.</p>
+
+<p>Every time, things or thoughts just pop up while you are working or thinking. At
+that time, I do not want open my evernote on pc or on smartphone, I want to
+record what I think of immediately. Here are one scenario:</p>
+
+<ol>
+<li><p>Waking up this morning, I want to know whether my credit card support Hong
+Kong dollar. At that time my pc or smartphonne are not turned on. And for
+such a little task, I do not want to open my smartphone and type this task
+in, and of course not pc. I want to just say, find whether my credit card
+support Hong Kong dollar or not and it should be put my task pool for being
+dealt with in the future.</p></li>
+<li><p>I have written an application to record the start time of my current task(and
+this app was not intended for such function in the first place I was writting
+it ). But I have to press the button manually to record the time. And if the
+wearable device could record the start time and end time of the task I am
+working just by receiving voice control. I would be much convenient and I
+will be hooked by this.
+&mdash; For example, I first write this draft reply from 8:00 am to 8:27 am.</p></li>
+</ol>
+
+
+<p>Right now, I am not supposed to write this idea down. But to make sure it get
+recorded, I still did that. And I now I forgot what I should do. So the things
+&mdash; stack job control system could be in work. I will not bother to even think to
+get myself back on track.</p>
+
+<p>This raise the point of the implementation stuff mentioned by Andrew.
+Implementation first thinking is really my kind of thinking most time and it is
+really helpful for Andrew to clearly point that out. It will help me in the
+futher thinking. But just for this point, I do not mean implementation. I will
+try get my point through.</p>
+
+<p>Computer is much like human. For exmaple, CPU is similar with the brain of
+human. And mouth, eye, nose, hand and etc are the I/O system of human. So the
+technology developed for computer could turn back to apply on human being. And
+the stack job control system is the most useful, obvious one that I could think.
+We are using technology in computer to enhance human&rsquo;s life. So what I really
+want to say is not implementation, but what we could learn from the technology
+of computer. The case for priority queue is pretty much the same.</p>
+
+<p>I hope I got my idea through. If not, feel free to ask any further questions. It
+is not natural to get into this mood of thinking anyway.</p>
+
+<p>As for the platform, Andrew is aiming at something big than what I can think. It
+is really hard to build a platform like the Android or iOS. What I mean for
+platform is an extension or the first task management system &mdash; the next phase of
+work. I am not thinking of a platform for developers. I am thinking to build
+convenient wearble device that becomes the information center, communication
+center task center and whatever center of futhure people. We are making this
+platform. Maybe a goog analogy is an integration of several functions based on
+the architecture we build for the task management system. But this idea may not
+be better than Andrew&rsquo;s platform.</p>
+]]></content>
+  </entry>
   
 </feed>
